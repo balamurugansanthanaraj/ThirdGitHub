@@ -23,6 +23,7 @@ namespace WpfApplication
         public MainWindow()
         {
             InitializeComponent();
+            this.Dipose();
         }
     }
 }
